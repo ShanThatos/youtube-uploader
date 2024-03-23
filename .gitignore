@@ -1,0 +1,10 @@
+/.venv/
+/client_secrets.json
+/launch.py-oauth2.json
+/temp/
+/dist/
+/build/
+__pycache__/
+/run.ps1
+/build.ps1
+/upload.spec
